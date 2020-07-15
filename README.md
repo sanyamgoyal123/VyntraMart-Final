@@ -25,4 +25,4 @@
   2) Open same directory in terminal.
   3) Run command npm start or ng serve.
   4) Go to browser and type -
-    # "https://localhost:4200".
+  # "https://localhost:4200".
