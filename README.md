@@ -18,7 +18,7 @@
   5) Spring Hibernate.
   
 # Database used-
-  1)MySQL.
+  1) MySQL.
   
 # How to start-
   1) Go to project directory of Frontend.
